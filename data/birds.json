@@ -1,0 +1,54 @@
+[
+    {
+        "pk": 0,
+        "model": "skeleton.Bird",
+        "fields": {
+            "scientific_name": "hirundo rustica",
+            "common_name": "barn swallow",
+            "body_mass": 20,
+            "wingbeat_frequency": 15,
+            "wingbeat_amplitude": 22
+        }
+    },
+    {
+        "model": "skeleton.Bird",
+        "fields": {
+            "scientific_name": "taeniopygia guttata",
+            "common_name": "zebra finch",
+            "body_mass": 13,
+            "wingbeat_frequency": 27,
+            "wingbeat_amplitude": 11
+        }
+    },
+    {
+        "model": "skeleton.Bird",
+        "fields": {
+            "scientific_name": "picoides pubescens",
+            "common_name": "downy woodpecker",
+            "body_mass": 27,
+            "wingbeat_frequency": 14,
+            "wingbeat_amplitude": 29
+        }
+    },
+    {
+        "model": "skeleton.Bird",
+        "fields": {
+            "scientific_name": "melopsittacus undulatus",
+            "common_name": "budgerigar",
+            "body_mass": 34,
+            "wingspan": 27,
+            "wingbeat_frequency": 14,
+            "wingbeat_amplitude": 15
+        }
+    },
+    {
+        "model": "skeleton.Bird",
+        "fields": {
+            "scientific_name": "sturnus vulgaris",
+            "common_name": "European Starling",
+            "wingspan": 35,
+            "wingbeat_frequency": 14,
+            "wingbeat_amplitude": 26
+        }
+    }
+]

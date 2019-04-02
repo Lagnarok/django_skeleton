@@ -1,0 +1,5 @@
+django>=2.2
+django-extensions
+iptools
+numpy
+pandas
