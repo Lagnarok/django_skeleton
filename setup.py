@@ -22,7 +22,6 @@ setup(
     license                 = 'http://opensource.org/licenses/MIT',
     long_description        = README,
     install_requires        = install_requires,
-    dependency_links        = dependency_links,
     packages                = find_packages(exclude = ['contrib', 'docs', 'tests']),
     include_package_data    = True
 )
